@@ -1,8 +1,8 @@
-# Somali NLP Project READ ME
+# Somali NLP Project
 
 
 ## Project Description
-We want to create tools and utilities for studying/doing cool stuff to the Somali languages. AlMost *all* of the Natural Language Processing libraries  out there are focused on European languages. My hope is that in the coming years, with your help, we can find ways of linking this to NLTK and other open source NLP projects. But for now, the focus is on:
+We want to create tools and utilities for studying/doing cool stuff to the Somali languages. Almost <*****all*****> of the Natural Language Processing libraries out there are focused on European languages. My hope is that in the coming years, with your help, we can find ways of linking this to NLTK and other open source NLP projects. But for now, the focus is on:
 * creating a definitive list of stop words (words like *he, she, they* that google likes to ignore because they don't add that much to the meaning of a search)
 * reasonably accurate stemmers that take a list of words and return morphemes (the smallest syntactic version of word)
 * A tokenizer that takes sentences and returns a list of words.
