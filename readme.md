@@ -1,7 +1,7 @@
 # Somali NLP Project READ ME
 
 
-##Project Description
+## Project Description
 We want to create tools and utilities for studying/doing cool stuff to the Somali languages. AlMost *all* of the Natural Language Processing libraries  out there are focused on European languages. My hope is that in the coming years, with your help, we can find ways of linking this to NLTK and other open source NLP projects. But for now, the focus is on:
 * creating a definitive list of stop words (words like *he, she, they* that google likes to ignore because they don't add that much to the meaning of a search)
 * reasonably accurate stemmers that take a list of words and return morphemes (the smallest syntactic version of word)
@@ -11,9 +11,10 @@ We want to create tools and utilities for studying/doing cool stuff to the Somal
 ##Getting Started
 
 ### Prerequisites
-* [python 3] - code is written in Python
-* [pip] - pip goes and fetches python libraries that you can import into your code
+* [python 3] (https://wiki.python.org/moin/BeginnersGuide/Download) - code is written in Python
+* [pip] (https://pip.pypa.io/en/stable/installing/) - pip goes and fetches python libraries that you can import into your code
 * [pipenv](https://pipenv.readthedocs.io/en/latest/) - creates a virtual environment so your code doesn't get ruined by code elsewhere on your computer
+* [git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) - this is thing used for version controlled, but we'll need it now so you can download this repo into your computer.
 
 if you're still having difficulties, check out [this article](https://docs.python-guide.org/) and follow along.
 
@@ -22,8 +23,9 @@ if you're still having difficulties, check out [this article](https://docs.pytho
 Clone the Repo
 ```
 git clone https://github.com/apjama/SOMALI_NLP.git
+cd SOMALI_NLP
 ```  
-Make a virtualenv
+Make a virtualenv and fire it up
 ```
 pipenv shell
 ```  
