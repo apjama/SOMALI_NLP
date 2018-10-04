@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e880e24a-700a-45ae-9bd3-0b3902d3ed17" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/json_tokens/adjectives.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/json_tokens/adverbs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/json_tokens/determiners.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/json_tokens/misc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/json_tokens/nouns.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/json_tokens/preposition.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/json_tokens/pronouns.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/json_tokens/verbs.json" beforeDir="false" />
-    </list>
+    <list default="true" id="e880e24a-700a-45ae-9bd3-0b3902d3ed17" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,20 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cosine_similarity.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/utils/cosine_similarity.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,11 +63,6 @@
               <item name="NLP" type="b2602c69:ProjectViewProjectNode" />
               <item name="NLP" type="462c0819:PsiDirectoryNode" />
               <item name="raw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NLP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NLP" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
