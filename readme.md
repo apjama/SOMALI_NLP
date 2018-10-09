@@ -39,7 +39,7 @@ Any one can submit a pull request if it falls into one of the areas described in
 ## Data
 The data used in this project comes from a bunch of different places. In each case, we will cite where the data came from so others can also access it. Look under the raw directory for row and json tokens. 
 
-* [This Corpus by Masaryk University](http://habit-project.eu/wiki/SetOfEthiopianWebCorpora) | Supposedly this has 80 million tokens (individual words). For a cleaned up version, please see the raw folder, under [json_tokens](https://github.com/apjama/SOMALI_NLP/tree/master/raw/json_tokens).
+* [This Corpus by Masaryk University](http://habit-project.eu/wiki/SetOfEthiopianWebCorpora) | Supposedly this has 80 million tokens (individual words). For a cleaned up version, please see the raw folder, under [json_tokens_czech_uni](https://github.com/apjama/SOMALI_NLP/tree/master/raw/json_tokens%20-%20czech%20uni).
 * [Wikipedia data going back to 2001](https://github.com/apjama/SOMALI_NLP/tree/master/raw/raw_text%20-%20wikipedia). The raw text files can be found under the raw directory. 
 
 ## Author
