@@ -6,7 +6,7 @@ We want to create tools and utilities for studying/doing cool stuff with the Som
 * Reasonably accurate stemmers that take a list of words and return morphemes (the smallest syntactic version of word)
 * A tokenizer that takes sentences and returns a list of words.
 * A tool that takes a word and gives you a list of words it likes be around (colocation).
-* Statistical models on everything from spelling errors, to colocation analysis.  
+* Statistical models on everything from spelling errors, to Levenshtein distances (if you're into that sort of thing!)  
 ## Getting Started
 Not knowing Python shouldn't stop you! Please get involved. If you know what you're doing, please build a feature and submit a pull request for it!
 ### Prerequisites
@@ -34,7 +34,7 @@ pipenv install
 ```
 
 ## Contributing
-Any one can submit a pull request if it falls into one of the areas described in the project description. Hit me up on here or Twitter if you want to get involved but now sure how you can get involved. 
+Any one can submit a pull request if it falls into one of the areas described in the project description. Hit me up on here or Twitter if you want to get involved. 
 
 ## Data
 The data used in this project comes from a bunch of different places. In each case, we will cite where the data came from so others can also access it. Look under the raw directory for row and json tokens. 
