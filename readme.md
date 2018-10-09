@@ -10,10 +10,10 @@ We want to create tools and utilities for studying/doing cool stuff with the Som
 ## Getting Started
 Not knowing Python shouldn't stop you! Please get involved. If you know what you're doing, please build a feature and submit a pull request for it!
 ### Prerequisites
-* [python 3] (https://wiki.python.org/moin/BeginnersGuide/Download)
-* [pip] (https://pip.pypa.io/en/stable/installing/)
+* [python 3](https://wiki.python.org/moin/BeginnersGuide/Download)
+* [pip](https://pip.pypa.io/en/stable/installing/)
 * [pipenv](https://pipenv.readthedocs.io/en/latest/)
-* [git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 if you're still having difficulties, check out [this article](https://docs.python-guide.org/) and follow along.
 
@@ -34,13 +34,13 @@ pipenv install
 ```
 
 ## Contributing
-Any one can submit a pull request if it falls into one of the areas described in the project description.
+Any one can submit a pull request if it falls into one of the areas described in the project description. Hit me up on here or Twitter if you want to get involved but now sure how you can get involved. 
 
 ## Data
 The data used in this project comes from a bunch of different places. In each case, we will cite where the data came from so others can also access it. Look under the raw directory for row and json tokens. 
 
 * [This Corpus by Masaryk University](http://habit-project.eu/wiki/SetOfEthiopianWebCorpora) | Supposedly this has 80 million tokens (individual words). For a cleaned up version, please see the raw folder, under [json_tokens](https://github.com/apjama/SOMALI_NLP/tree/master/raw/json_tokens).
-* [Wikipedia data going back to 2001]. The raw text files can be found under the raw directory. 
+* [Wikipedia data going back to 2001](https://github.com/apjama/SOMALI_NLP/tree/master/raw/raw_text%20-%20wikipedia). The raw text files can be found under the raw directory. 
 
 ## Author
 [AP Jama](https://www.twitter.com/apjama)
