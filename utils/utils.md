@@ -18,3 +18,7 @@ python tokenize_directory.py "raw/raw_text - wikipedia/"
 ```
 
 Note: the text files should be in the parent directory. If you want to change this behavior, then edit the main function itself. 
+
+### hadrawi - frequency_finder
+
+This script was contributed by [Mohamed Ainab](https://twitter.com/mohamedainab). It can be found in the original repo[here] (https://github.com/codeforsomalia/hadrawi). 
