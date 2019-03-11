@@ -34,15 +34,10 @@ pipenv install
 ```
 
 ## Contributing
-Any one can submit a pull request if it falls into one of the areas described in the project description. Hit me up on here or Twitter if you want to get involved. 
+Any one can submit a pull request if it falls into one of the areas described in the project description. Hit me up on my [Twitter](https://twitter.com/apjama).
 
 ## Data
-The data used in this project comes from a bunch of different places. In each case, we will cite where the data came from so others can also access it. Look under the raw directory for row and json tokens. 
+This repo is primary is the codebase for the project. If you’re looking for the data that goes along with it, please check the [Somali NLP Data](https://github.com/apjama/Somali_NLP_data) repo. 
 
-* [This Corpus by Masaryk University](http://habit-project.eu/wiki/SetOfEthiopianWebCorpora) | Supposedly this has 80 million tokens (individual words). For a cleaned up version, please see the raw folder, under 
-[json tokens Czech uni][https://github.com/apjama/SOMALI_NLP/tree/master/raw/json_tokens%20-%20czech%20uni].
-* [Wikipedia data going back to 2001](https://github.com/apjama/SOMALI_NLP/tree/master/raw/raw_text%20-%20wikipedia). The raw text files can be found under the raw directory. 
-* The Hadrawi tokens were contributed by [Mohamed Ainab](https://twitter.com/mohamedainab). 
-They can be found in the [original repo here](https://github.com/codeforsomalia/hadrawi). 
 
 
